@@ -4,7 +4,7 @@ This PDF will explain DNS Spoofing - MITM Attack in very details
                                 Ettercap & Setoolkit
 
 ❖ Overview about the practical
-➢ Here, we will clone a site(HTTP OR HTTPs) as a attacker and then spoof the DNS of the victim so when the victim will search or 
+Here, we will clone a site(HTTP OR HTTPs) as a attacker and then spoof the DNS of the victim so when the victim will search or 
 try to go on the domain he will be having our clone site same as the original page and user will enter it’s credentials 
 and we will get it and by this user will login into its page without getting any idea that he had been attacked by MITM [Man in the Middle].
 
